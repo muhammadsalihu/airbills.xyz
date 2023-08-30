@@ -1,6 +1,6 @@
 import { ChakraProvider } from '@chakra-ui/react'
 
-import logo from './logo.svg';
+import logo from './airbills-logo.png';
 import './App.css';
 
 
@@ -15,11 +15,11 @@ function App() {
           </p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://linktr.ee/airbills"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn Python
+            Productize Yourself
           </a>
         </header>
       </div>
