@@ -19,7 +19,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Productize Yourself
+            Building capacity for collective action
           </a>
         </header>
       </div>
